@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
-- 🔭 I’m working on [Kilo](https://github.com/alvarosh15/Kilo)
+- 🔭 I’m working on Kilo (https://github.com/alvarosh15/Kilo)
 
 - 🌱 I’m currently studying **a double degree in Computer Science and Mathematics at the University of Malaga**
 
