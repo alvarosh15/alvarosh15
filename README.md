@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 
-- 🔭 I’m working on Cleantext (https://github.com/alvarosh15/Cleantext/) a minimalist markdown web editor and Minimarkdown (https://github.com/alvarosh15/Minimarkdown) my own markdown parser.
+- 🔭 I’m working on Cleantext (https://github.com/alvarosh15/cleantext/) a minimalist markdown web editor and Minimarkdown (https://github.com/alvarosh15/Minimarkdown) my own markdown parser.
 
 - 🌱 I’m currently studying **a double degree in Computer Science and Mathematics at the University of Malaga**
 
